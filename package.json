@@ -1,0 +1,20 @@
+{
+  "name": "freefirejs",
+  "version": "1.0.9",
+  "description": "Um módulo para interagir com a API do jogo Garena Free Fire.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "needle":"^3.0.0"
+    },
+  "keywords": [
+    "freefire",
+    "freefirejs",
+    "freefire.js",
+    "ff"
+  ],
+  "author": "Shay444",
+  "license": "MIT"
+}
