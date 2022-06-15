@@ -1,4 +1,5 @@
 # freefirejs
+![NPM](https://img.shields.io/npm/l/freefirejs?logo=Node.js)
 Um módulo para interagir com a API do jogo [Garena Free Fire](https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=pt).
 
 ## 👨‍💻 Tecnologias
