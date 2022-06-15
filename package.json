@@ -1,6 +1,6 @@
 {
   "name": "freefirejs",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "description": "Um módulo para interagir com a API do jogo Garena Free Fire.",
   "main": "index.js",
   "scripts": {
