@@ -51,7 +51,7 @@ freefire.GetServerInfo("BR","pt-br","1.68.1").then((response)=>{
 });
 ```
 
-*Pegando a data de criação de uma conta pelo ID do jogador:*
+*Pegando a data de criação de uma conta pelo ID do jogador (Não está funcionando no momento):*
 ```javascript
 const freefire = require("freefirejs");
 
@@ -83,7 +83,7 @@ freefire.getAccountCreationDate("123456789").then((response)=>{
 #### Retorna um objeto com as seguintes propriedades:
 - `codeIsValid`: Diz se o código de resgate é válido.
 - `success`: Diz se o código foi resgatado.
-### `getAccountCreationDate(id):`
+### `getAccountCreationDate(id) ( Não está funcionando no momento ):`
 #### Retorna um objeto com as seguintes propriedades
 - `original_api_date`
 - `otherFormat`
